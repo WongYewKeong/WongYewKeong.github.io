@@ -3,15 +3,15 @@
     font-family: var(--font-base);
   }
   
-  .app__whitebg {
+.app__whitebg {
     background-color: var(--white-color);
   }
   
-  .app__primarybg {
+.app__primarybg {
     background-color: var(--primary-color);
   }
   
-  .app__container {
+.app__container {
     width: 100%;
     min-height: 100vh;
   
@@ -19,13 +19,13 @@
     flex-direction: row;
   }
   
-  .app__flex {
+.app__flex {
     display: flex;
     justify-content: center;
     align-items: center;
   }
   
-  .app__wrapper {
+.app__wrapper {
     flex: 1;
     width: 100%;
     flex-direction: column;
@@ -36,7 +36,7 @@
     }
   }
   
-  .copyright {
+.copyright {
     width: 100%;
     padding: 2rem 0 0;
   
@@ -51,7 +51,7 @@
     }
   }
   
-  .head-text {
+.head-text {
     font-size: 2.75rem;
     font-weight: 800;
     text-align: center;
@@ -71,7 +71,7 @@
     }
   }
   
-  .p-text {
+.p-text {
     font-size: 0.8rem;
     text-align: left;
     color: var(--gray-color);
@@ -82,7 +82,7 @@
     }
   }
   
-  .bold-text {
+.bold-text {
     font-size: 1rem;
     font-weight: 800;
     color: var(--black-color);
@@ -97,7 +97,7 @@
     }
   }
   
-  .app__social {
+.app__social {
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -148,7 +148,7 @@
     }
   }
   
-  .app__navigation {
+.app__navigation {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -156,7 +156,7 @@
   
     padding: 1rem;
   
-    .app__navigation-dot {
+.app__navigation-dot {
       width: 10px;
       height: 10px;
       border-radius: 50%;
